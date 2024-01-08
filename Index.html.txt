@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Member Team</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+ 
+     <fieldset>
+        <center>
+  <header>
+    <h2>Company Name</h2>
+    <h5>Welcome to [Your Company],where a dedicated team of professionals works together to bring innovation ,creativity and expertise to software industry.get to know the individuals who make our company thrive.</h5>        
+  </header>
+  <h2 id="dot">--------------------------------------------------------------</h2>
+       <h2>Meet Our Team</h2>
+
+        <header>
+       <h3>Leadership / Management Team</h3>
+    </header>
+
+  <section class="team-members">
+    <div class="team-member">
+      <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+      <h2>[Founder Name]  </h2>
+      <p>Founder /CEO</p>
+    </div>
+
+    <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Founder Name]</h2>
+      <p>Founder /CEO</p>
+      </div>
+       <br>
+       <br>
+  
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[VP Name] <br></h2>
+        <p>VP,Development & Growth</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[VP Name]</h2>
+        <p>VP,Sales & Marketing</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[VP Name]</h2>
+        <p>VP,Finance & Operation</p>
+      </div>
+
+  </section>
+  <header>
+  <h3> Development Team</h3>
+</header>
+
+<section class="team-members">
+    <div class="team-member">
+      <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+      <h2>[Developer Name]</h2>
+      <p>Team Lead,SE</p>
+    </div>
+
+    <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+      <p>software Engineer</p>
+      </div>
+  
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+      <p>software Engineer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+        <p>software Engineer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+      <p>software Engineer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+      <p>software Engineer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Developer Name]</h2>
+      <p>software Engineer</p>
+      </div>
+           
+  </section>
+
+  <header>
+    <h3> Sales and Marketing  Team</h3>
+  </header>
+
+
+  <section class="team-members">
+    <div class="team-member">
+      <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+      <h2>[Employee Name]</h2>
+      <p>Team Lead</p>
+    </div>
+
+    <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Employee Name]</h2>
+      <p>Sales Officer</p>
+      </div>
+  
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Employee Name]</h2>
+        <p>Sales Officer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Employee Name]</h2>
+        <p>Sales Officer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Founder Name]</h2>
+      <p>Marketing Officer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Founder Name]</h2>
+        <p>Marketing Officer</p>
+      </div>
+      <div class="team-member">
+        <img src="https://cdn-icons-png.flaticon.com/512/1870/1870038.png" alt="Member 1" height="100px" width="100px">
+        <h2>[Founder Name]</h2>
+      <p>Marketing Officer</p>
+      </div>
+    </center>
+    </fieldset>
+  </section>
+
+</body>
+</html>

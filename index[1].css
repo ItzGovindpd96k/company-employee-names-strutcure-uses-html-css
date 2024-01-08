@@ -1,0 +1,80 @@
+body {
+      margin :20px;  
+     padding: 20px; 
+    box-sizing: border-box; 
+
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  header h2 ,h3  {
+    display: inline-block;
+      padding: 10px; 
+      border: 2px solid #C154C1;
+      color: white;
+      background-color: #C154C1;
+      border-radius: 8PX;
+      text-align: center;
+      margin: 10px;  ;
+
+  }
+   h2{
+     text-align: center; 
+
+   }
+
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .team-member {
+    text-align: center;
+    margin: 20px;
+    flex: 1 1 200px;
+
+  }
+  
+  .team-member img {
+    
+    border-radius: 50%;
+    max-width: 100%;
+  height: auto;
+
+
+
+  }
+  header h5 {
+    text-align: center ;
+  }
+  
+
+ #dot{
+    color: #C154C1;
+ }
+ .team-member p{
+    color: #C154C1;
+ }
+
+ @media screen and (max-width: 1500px) {
+    body {
+      margin: 10px;
+      padding: 10px;
+    }
+  
+    header h2,
+    header h3 {
+      font-size: 16px;
+    }
+  
+    .team-member {
+      flex: 1 1 100%;
+    }
+  }
+
+  
+  
